@@ -1,0 +1,128 @@
+[
+  {
+    "county": "Bjelovarsko-bilogorska županija",
+    "project_count": 59,
+    "beneficiary_count": 21,
+    "total_grant_eur": 2998970.0
+  },
+  {
+    "county": "Brodsko-posavska županija",
+    "project_count": 40,
+    "beneficiary_count": 12,
+    "total_grant_eur": 2791786.0
+  },
+  {
+    "county": "Dubrovačko-neretvanska županija",
+    "project_count": 46,
+    "beneficiary_count": 17,
+    "total_grant_eur": 3911580.0
+  },
+  {
+    "county": "Grad Zagreb županija",
+    "project_count": 227,
+    "beneficiary_count": 95,
+    "total_grant_eur": 34570140.0
+  },
+  {
+    "county": "Istarska županija",
+    "project_count": 28,
+    "beneficiary_count": 17,
+    "total_grant_eur": 2032117.0
+  },
+  {
+    "county": "Karlovačka županija",
+    "project_count": 23,
+    "beneficiary_count": 10,
+    "total_grant_eur": 933585.0
+  },
+  {
+    "county": "Koprivničko-križevačka županija",
+    "project_count": 49,
+    "beneficiary_count": 21,
+    "total_grant_eur": 3391281.0
+  },
+  {
+    "county": "Krapinsko-zagorska županija",
+    "project_count": 36,
+    "beneficiary_count": 15,
+    "total_grant_eur": 1536415.0
+  },
+  {
+    "county": "Ličko-senjska županija",
+    "project_count": 9,
+    "beneficiary_count": 3,
+    "total_grant_eur": 364831.0
+  },
+  {
+    "county": "Međimurska županija",
+    "project_count": 43,
+    "beneficiary_count": 14,
+    "total_grant_eur": 2997422.0
+  },
+  {
+    "county": "Osječko-baranjska županija",
+    "project_count": 103,
+    "beneficiary_count": 42,
+    "total_grant_eur": 10472641.0
+  },
+  {
+    "county": "Požeško-slavonska županija",
+    "project_count": 16,
+    "beneficiary_count": 7,
+    "total_grant_eur": 755304.0
+  },
+  {
+    "county": "Primorsko-goranska županija",
+    "project_count": 64,
+    "beneficiary_count": 28,
+    "total_grant_eur": 8696513.0
+  },
+  {
+    "county": "Sisačko-moslavačka županija",
+    "project_count": 48,
+    "beneficiary_count": 19,
+    "total_grant_eur": 2805407.0
+  },
+  {
+    "county": "Splitsko-dalmatinska županija",
+    "project_count": 84,
+    "beneficiary_count": 38,
+    "total_grant_eur": 10192893.0
+  },
+  {
+    "county": "Varaždinska županija",
+    "project_count": 70,
+    "beneficiary_count": 28,
+    "total_grant_eur": 4109676.0
+  },
+  {
+    "county": "Virovitičko-podravska županija",
+    "project_count": 29,
+    "beneficiary_count": 12,
+    "total_grant_eur": 1467196.0
+  },
+  {
+    "county": "Vukovarsko-srijemska županija",
+    "project_count": 54,
+    "beneficiary_count": 25,
+    "total_grant_eur": 2888471.0
+  },
+  {
+    "county": "Zadarska županija",
+    "project_count": 31,
+    "beneficiary_count": 13,
+    "total_grant_eur": 3579525.0
+  },
+  {
+    "county": "Zagrebačka županija",
+    "project_count": 73,
+    "beneficiary_count": 37,
+    "total_grant_eur": 3673023.0
+  },
+  {
+    "county": "Šibensko-kninska županija",
+    "project_count": 31,
+    "beneficiary_count": 15,
+    "total_grant_eur": 2821791.0
+  }
+]
